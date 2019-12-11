@@ -8,7 +8,7 @@ The Swagger 2 specification, which is known as OpenAPI specification, has severa
 
 <strong>Add following dependency in Maven POM</strong>
 <img src="https://github.com/ShahbazHaroon/Swagger-2/blob/master/springfox.JPG" alt="springfox">
-</li>
+
 In addition to Springfox, we also require Swagger UI
 <img src="https://github.com/ShahbazHaroon/Swagger-2/blob/master/Swagger-UI.JPG" alt="swaggerUI">
 
