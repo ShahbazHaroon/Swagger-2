@@ -8,12 +8,14 @@ The Swagger 2 specification, which is known as OpenAPI specification, has severa
 
 
 <strong>Add following dependency in Maven POM</strong>
+
 <li>
 <img src="https://github.com/ShahbazHaroon/Swagger-2/blob/master/springfox.JPG" alt="springfox">
 </li>
 
 
-In addition to Springfox, we also require Swagger UI
+<strong>In addition to Springfox, we also require Swagger UI</strong>
+
 <li>
 <img src="https://github.com/ShahbazHaroon/Swagger-2/blob/master/Swagger-UI.JPG" alt="swaggerUI">
 </li>
@@ -21,6 +23,10 @@ In addition to Springfox, we also require Swagger UI
 <h2>Configuring Swagger 2 in the Application</h2>
 
 We need to create a Docket bean in a Spring Boot configuration to configure Swagger 2 for the application. A Springfox Docket instance provides the primary API configuration with sensible defaults and convenience methods for configuration
+
+<li>
+<img src="https://github.com/ShahbazHaroon/https://github.com/ShahbazHaroon/Swagger-2/blob/master/Swagger-Java.JPG" alt="swaggerJava">
+</li>
 
 <strong>At this point, you should be able to test the configuration by starting the app and pointing your browser to</strong>
 
