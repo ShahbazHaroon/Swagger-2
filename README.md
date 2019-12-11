@@ -6,13 +6,15 @@ Swagger 2 is an open source project used to describe and document RESTful APIs. 
 
 The Swagger 2 specification, which is known as OpenAPI specification, has several implementations. Currently, Springfox, that has replaced Swagger-SpringMVC (Swagger 1.2 and older), is popular for Spring Boot applications. Springfox supports both Swagger 1.2 and 2.0.
 
-<li>
+
 <strong>Add following dependency in Maven POM</strong>
+<li>
 <img src="https://github.com/ShahbazHaroon/Swagger-2/blob/master/springfox.JPG" alt="springfox">
 </li>
 
-<li>
+
 In addition to Springfox, we also require Swagger UI
+<li>
 <img src="https://github.com/ShahbazHaroon/Swagger-2/blob/master/Swagger-UI.JPG" alt="swaggerUI">
 </li>
 
